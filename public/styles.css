@@ -1,0 +1,20 @@
+body { 
+    background-image: url('http://www.relevantsearchscotland.co.uk/tourism/Edinburgh-Castle-Large.JPG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right top; 
+}
+
+h1 {
+    font-family: Arial, Times, serif;
+        color: white;
+        
+        
+}
+
+h2 {
+  font-family: Arial, Times, serif;
+      color: white;
+}
+
+
